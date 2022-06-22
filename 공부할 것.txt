@@ -1,0 +1,10 @@
+
+코드업 기초 100제 : https://codeup.kr/problemsetsol.php?psid=33
+
+그리디 알고리즘 : https://www.acmicpc.net/problemset?sort=ac_desc&algo=33
+완전탐색 : https://www.acmicpc.net/problemset?sort=ac_desc&algo=125
+BFS : https://www.acmicpc.net/problemset?sort=ac_desc&algo=126
+DFS : https://www.acmicpc.net/problemset?sort=ac_desc&algo=127
+동적 프로그래밍 : https://www.acmicpc.net/problem/tag/25
+그래프 이론 : https://www.acmicpc.net/problem/tag/7
+문자열 : https://www.acmicpc.net/problem/tag/158
